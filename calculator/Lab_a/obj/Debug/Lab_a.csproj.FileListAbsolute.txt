@@ -1,0 +1,9 @@
+C:\University Assignment\2nd semester\Programming\Code\Lab_a\Lab_a\bin\Debug\Lab_a.exe.config
+C:\University Assignment\2nd semester\Programming\Code\Lab_a\Lab_a\bin\Debug\Lab_a.exe
+C:\University Assignment\2nd semester\Programming\Code\Lab_a\Lab_a\bin\Debug\Lab_a.pdb
+C:\University Assignment\2nd semester\Programming\Code\Lab_a\Lab_a\obj\Debug\Lab_a.csprojResolveAssemblyReference.cache
+C:\University Assignment\2nd semester\Programming\Code\Lab_a\Lab_a\obj\Debug\Lab_a.Form1.resources
+C:\University Assignment\2nd semester\Programming\Code\Lab_a\Lab_a\obj\Debug\Lab_a.Properties.Resources.resources
+C:\University Assignment\2nd semester\Programming\Code\Lab_a\Lab_a\obj\Debug\Lab_a.csproj.GenerateResource.Cache
+C:\University Assignment\2nd semester\Programming\Code\Lab_a\Lab_a\obj\Debug\Lab_a.exe
+C:\University Assignment\2nd semester\Programming\Code\Lab_a\Lab_a\obj\Debug\Lab_a.pdb
